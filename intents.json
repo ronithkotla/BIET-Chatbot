@@ -1,0 +1,231 @@
+[
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "How are you",
+            "What's up"
+        ],
+        "responses": [
+            "Hi there",
+            "Hello",
+            "Hey",
+            "I'm fine, thank you",
+            "Nothing much"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Take care"
+        ],
+        "responses": [
+            "Goodbye",
+            "See you later",
+            "Take care"
+        ]
+    },
+    {
+        "tag": "thanks",
+        "patterns": [
+            "Thank you",
+            "Thanks",
+            "Thanks a lot",
+            "I appreciate it"
+        ],
+        "responses": [
+            "You're welcome",
+            "No problem",
+            "Glad I could help"
+        ]
+    },
+    {
+        "tag": "about",
+        "patterns": [
+            "What can you do",
+            "Who are you",
+            "What are you",
+            "What is your purpose"
+        ],
+        "responses": [
+            "I am a chatbot",
+            "My purpose is to assist you",
+            "I can answer questions and provide assistance"
+        ]
+    },
+    {
+        "tag": "help",
+        "patterns": [
+            "Help",
+            "I need help",
+            "Can you help me",
+            "What should I do"
+        ],
+        "responses": [
+            "Sure, what do you need help with?",
+            "I'm here to help. What's the problem?",
+            "How can I assist you?"
+        ]
+    },
+    {
+        "tag": "age",
+        "patterns": [
+            "How old are you",
+            "What's your age"
+        ],
+        "responses": [
+            "I don't have an age. I'm a chatbot.",
+            "I was just born in the digital world.",
+            "Age is just a number for me."
+        ]
+    },
+    
+    {
+        "tag": "name",
+        "patterns": [
+            "What's your name",
+            "Do you have a name",
+            "What should I call you"
+        ],
+        "responses": [
+            "I am a chatbot representing Bharat institue of engineering and technology "
+        ]
+    },
+    {
+        "tag": "favorite_color",
+        "patterns": [
+            "What's your favorite color",
+            "Do you like any color"
+        ],
+        "responses": [
+            "I'm a chatbot, so I don't have a favorite color.",
+            "As an AI, I don't have preferences like humans do."
+        ]
+    },
+    {
+        "tag": "hobby",
+        "patterns": [
+            "What do you do for fun",
+            "Do you have any hobbies"
+        ],
+        "responses": [
+            "I don't have hobbies as I'm here to assist you.",
+            "I'm always ready to chat with you, so that's my favorite thing to do!"
+        ]
+    },
+    {
+        "tag": "College",
+        "patterns": [
+            "What college",
+            "which college",
+            "college name"
+        ],
+        "responses": [
+            "Bharat Institute of Engineering and Technology"
+            
+        ]
+    },
+    {
+        "tag": "location",
+        "patterns": [
+            "What location",
+            "where is it",
+            "where is the college located",
+            "where is college",
+            "location"
+        ],
+        "responses": [
+            "Bharat Institute of Engineering and Technology, Mangalpalli, near Ibrahimpatnam, Hyderabad"
+            
+        ]
+    },
+    {
+        "tag": "admission",
+        "patterns": [
+            "admission",
+            "admission process",
+            "can i take admission",
+            "how to take admission in your college",
+            "who should i speak to for admission process"
+        ],
+        "responses": [
+            "Yes, admissions are open, please contact Admission Incharge contact is available on official college website "
+            
+        ]
+    },
+    {
+        "tag": "status",
+        "patterns": [
+            "is your college good",
+            "what is your status",
+            "wat is yor rank",
+            "i heard your college is bad",
+            "tell me about your college"
+        ],
+        "responses": [
+            "Our college provides best environment and faculties to make students understand classes. We are AICTE ,NAAC certified college with a legacy of more than 20 years, we provide courses on B.tech, M.Tech,MBA, B.Pharmacy"
+            
+        ]
+    },
+    {
+        "tag": "Transport",
+        "patterns": [
+            "Do you provide transport",
+            "Transport",
+            "what about transport",
+            "How can i come to college"
+        ],
+        "responses": [
+            "We provide Bus Transport all over Hyderabad for specific fees and you can also come in TG RTC buses as well  "            
+        ]
+    },
+    {
+        "tag": "Faculty",
+        "patterns": [
+            "What about faculty",
+            "is there sufficient faculty"
+        ],
+        "responses": [
+            "Yes, we have faculties expertised in their own domain with doctrates, professors,Phds,etc who give their best to make students understand"            
+        ]
+    },
+    {
+        "tag": "clubs",
+        "patterns": [
+            "Do you have any clubs",
+            "What about clubs",
+            "extra curricular activities "
+        ],
+        "responses": [
+            "Yes we have many clubs and everyday we have separate time scheduled for clubs and tournaments"            
+        ]
+    },
+    {
+        "tag": "contact",
+        "patterns": [
+            "Where contacts",
+            "Whom to contact"
+        ],
+        "responses": [
+            "Please check the contacts in our official website"            
+        ]
+    },
+    {
+        "tag": "wow",
+        "patterns": [
+            "good",
+            "wow",
+            "nice",
+            "awesome",
+            "excellent"
+        ],
+        "responses": [
+            "Thankyou please visit our college for admissions"            
+        ]
+    }
+]
